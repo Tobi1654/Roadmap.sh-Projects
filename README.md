@@ -2,6 +2,10 @@
 # Oluwatobi Olanrele - Resume Website
 https://roadmap.sh/projects/single-page-cv
 
+## Live Demo
+
+[View Live Project]([https://your-project-url.com](http://127.0.0.1:5500/ResumePage-Project/resumepage.html))
+
 A clean, accessible personal resume website showcasing skills, education, and experience as a Frontend Web Developer.
 
 ## 📋 Project Overview
